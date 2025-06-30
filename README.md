@@ -1,5 +1,4 @@
 # Fraud-Email-Detection 
-Fraud-Email-Detection
 Fraud Email Detection System
 
 This project implements a machine learning-based system to detect fraudulent emails. Using text preprocessing, feature extraction, and classification techniques, the system achieves high accuracy in distinguishing between legitimate and fraudulent emails.
